@@ -1,5 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.instagram.com/wtfrxjj?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-<h1 align="center">Hi 👋, I'm Raj Patil</h1>
+<h1 align="center">Hi 👋, I'm Rohit Wagh</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <!-- < img align="right" alt="Chat-wit-Raj" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> -->
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about *Python, Django,  SQL, Web Development*
 
-- 📫 How to reach me *rxjpatil@gmail.com*
+- 📫 How to reach me *waghrohit153@gmail.com*
 
 - 📄 Know about my experiences [https://rxjpatil.freewebhostmost.com/resume.html](https://rxjpatil.freewebhostmost.com/resume.html)
 
