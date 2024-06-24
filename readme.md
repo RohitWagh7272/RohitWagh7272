@@ -3,19 +3,16 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 <!-- < img align="right" alt="Chat-wit-Raj" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rxjpatil&label=Profile%20views&color=0e75b6&style=flat" alt="rxjpatil" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rxjpatil" target="blank"><img src="https://img.shields.io/twitter/follow/rxjpatil?logo=twitter&style=for-the-badge" alt="rxjpatil" /></a> </p>
 
 - 🌱 I’m currently learning *MERN Stack*
 
-- 👨‍💻 All of my projects are available at [https://rxjpatil.freewebhostmost.com/](https://rxjpatil.freewebhostmost.com/)
+
 
 - 💬 Ask me about *Python, Django,  SQL, Web Development*
 
 - 📫 How to reach me *waghrohit153@gmail.com*
 
-- 📄 Know about my experiences [https://rxjpatil.freewebhostmost.com/resume.html](https://rxjpatil.freewebhostmost.com/resume.html)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
